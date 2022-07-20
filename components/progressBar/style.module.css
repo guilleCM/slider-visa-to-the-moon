@@ -1,0 +1,28 @@
+.container {
+  padding: 5px;
+}
+.progressContainer {
+  height: 3px;
+  width: 100%;
+  background-color: #e0e0de;
+  border-radius: 50px;
+}
+
+.filler {
+  height: 100%;
+  border-radius: inherit;
+  text-align: right;
+  transition: width 4s;
+}
+.empty {
+  width: 0%;
+}
+.full {
+  width: 100%;
+}
+
+.label {
+  padding: 5;
+  color: white;
+  font-weight: bold;
+}
