@@ -5,7 +5,8 @@
 npm install
 # corremos el servidor en modo dev 
 npm run dev
-
+# acceder con el navegador a
+http://localhost:3000/
 ```
 
 ## Notas
